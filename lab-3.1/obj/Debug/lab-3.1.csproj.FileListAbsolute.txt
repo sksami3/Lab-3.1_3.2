@@ -1,0 +1,93 @@
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\ApplicationInsights.config
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\csc.exe
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\vbc.exe
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\VBCSCompiler.exe
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\lab-3.1.dll.config
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\lab-3.1.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\lab-3.1.pdb
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.DependencyCollector.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.Web.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.WindowsServer.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.ApplicationInsights.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Helpers.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Mvc.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Razor.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.Deployment.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.Razor.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.DependencyCollector.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.Web.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.AI.WindowsServer.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.ApplicationInsights.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Razor.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.Deployment.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Webpages.Razor.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Helpers.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\bin\System.Web.Mvc.xml
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\obj\Debug\lab-3.1.dll
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\obj\Debug\lab-3.1.pdb
+E:\New folder\P20180215.Mvc\Lab-3.1\lab-3.1\obj\Debug\lab-3.1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\ApplicationInsights.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\lab-3.1.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\lab-3.1.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\lab-3.1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\obj\Debug\lab-3.1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\obj\Debug\lab-3.1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\obj\Debug\lab-3.1.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Lab_3.1_3.2\lab-3.1\obj\Debug\lab-3.1.pdb
